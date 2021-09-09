@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(126, 14, 230);
+
+}
+
+button{
+
+  ont-family: 'Public Sans';
+  border-radius: 3px;
+  height: 45px;
+  font-size: 
+}
+button:hover{
+  ont-family: 'Public Sans';
+    font-weight: 700;
+    font-size: 15px;
+    background-color: #0d5ba4;
+    text-transform: uppercase;
+    border-radius: 3px;
+    height: 45px;
+    color: #fff;
+    background: linear-gradient(to right,#0d5ba4 50%,#0d6dc7 50%);
+    background-size: 200% 100%;
+    background-position: right top;
+    transition: all .6s ease;
+    -webkit-transition-delay: all .3s ease;
+    -moz-transition-delay: all .3s ease;
+    -ms-transition-delay: all .3s ease;
+    -o-transition-delay: all .3s ease;
+}
+
+
+#epic span{
+    color: #FF00F7;
+}
+
+#epic{
+    color: #0086FF;
+}
+
+#welcome span{
+  position: absolute;
+  bottom: 50%;
+  left: 50%;
+}
